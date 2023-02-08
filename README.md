@@ -1,2 +1,2 @@
 # FAQs
-Live: 
+Live: https://gulverda.github.io/FAQs/
